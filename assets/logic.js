@@ -1,5 +1,15 @@
 // List variables and constants
 
+var timerEl = document.getElementById("time")
+var startBtn = document.getElementById("start")
+var questionEl = document.getElementById("questions")
+var choicesEl = document.getElementById("choices")
+var nameEl = document.getElementById("name")
+var acceptEl = document.getElementById("accept")
+var feedbackEl = document.getElementById("feedback")
+
+var time = questions.length * 15
+var currentQuestion = 0;
 
 
 
