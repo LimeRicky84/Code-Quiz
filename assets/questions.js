@@ -2,8 +2,8 @@
 
 var questions = [
     {
-        title: "Which html tag contains javascript?"
-        choices: ['<p>', '<link>', '<js>', '<script>']
+        title: "Which html tag contains javascript?",
+        choices: ['<p>', '<link>', '<js>', '<script>'],
         answer: '<script>'
     },
     {

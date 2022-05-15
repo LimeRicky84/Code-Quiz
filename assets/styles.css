@@ -11,14 +11,14 @@ body {
 
 .scores {
     position: absolute;
-    top: 10;
-    left: 10;
+    top: 50px;
+    left: 20px;
 }
 
 .timer {
     position: absolute;
-    top: 10;
-    right: 10;
+    top: 50px;
+    right: 20px;
 }
 
 .wrap {
@@ -30,8 +30,9 @@ body {
     text-align: center;
 }
 
+
 .hidden {
-    display: none;
+  display: none;
 }
 
 a {
